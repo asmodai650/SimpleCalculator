@@ -10,24 +10,24 @@ namespace simpleCalculator
     {
         static void Main(string[] args)
         {
-            string userName = Console.ReadLine().ToLower();
-            string password = Console.ReadLine().ToLower();
+            //string userName = Console.ReadLine().ToLower();
+            //string password = Console.ReadLine().ToLower();
 
 
-            if (userName.Equals("danny") && password.Equals("741852"))
-            {
-                Console.WriteLine("Hello, Danny");
-            }
+            //if (userName.Equals("danny") && password.Equals("741852"))
+            //{
+            //    Console.WriteLine("Hello, Danny");
+            //}
 
-            else if (userName.Equals("danny") && !password.Equals("741852"))
-            {
-                Console.WriteLine("Wrong password, idiot!");
-            }
+            //else if (userName.Equals("danny") && !password.Equals("741852"))
+            //{
+            //    Console.WriteLine("Wrong password, idiot!");
+            //}
 
-            else
-            {
-                Console.WriteLine("STRANGER DANGER!!!!");
-            }
+            //else
+            //{
+            //    Console.WriteLine("STRANGER DANGER!!!!");
+            //}
 
             //switch (userName)
             //{
@@ -40,8 +40,31 @@ namespace simpleCalculator
             //        break;
             //}
 
-            Console.ReadLine();
+            //Person person1 = new Person();
+            //Console.WriteLine(person1.getAge());
+            //person1.setAge(29);
+            //Console.WriteLine(person1.getAge());
 
+            //Person.greet();
+
+            try
+            {
+                string input = Console.ReadLine();
+
+                int convertedNumber;
+                bool isconvertedNumberSuccessfully = int.TryParse(input, out convertedNumber);
+
+                if (!isconvertedNumberSuccessfully)
+                {
+                    throw new Exception("Conversion not working");
+                }
+            }
+
+            catch (Exception ex)
+            {
+                Console.WriteLine("Exception Message: {0}", ex.Message);
+                Console.ReadLine();
+            }
         }
     }
 }
