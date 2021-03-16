@@ -51,18 +51,25 @@ namespace simpleCalculator
             {
                 string input = Console.ReadLine();
 
-                int convertedNumber;
-                bool isconvertedNumberSuccessfully = int.TryParse(input, out convertedNumber);
-
-                if (!isconvertedNumberSuccessfully)
+                try
                 {
-                    throw new Exception("Conversion not working");
+                    StringToIntConverter stringToIntConverter = new StringToIntConverter();
+                    stringToIntConverter.convert(input);
+                }
+                catch (Exception innerEx)
+                {
+                    Console.WriteLine("Conversion Error: {0}", innerEx.Message);
                 }
             }
 
-            catch (Exception ex)
+            catch (Exception outerEx)
             {
-                Console.WriteLine("Exception Message: {0}", ex.Message);
+                Console.WriteLine("Exception Message: {0}", outerEx.Message);
+            }
+
+            finally
+            {
+                Console.WriteLine("App is still running");                
                 Console.ReadLine();
             }
         }
