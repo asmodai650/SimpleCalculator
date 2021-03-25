@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{D018F641-6AB2-40B7-99AB-B561785169B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FC3B76CE-B000-499D-9CDC-A8617B9FEDF1}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D018F641-6AB2-40B7-99AB-B561785169B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D018F641-6AB2-40B7-99AB-B561785169B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D018F641-6AB2-40B7-99AB-B561785169B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D018F641-6AB2-40B7-99AB-B561785169B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6221EC1E-C9B0-406D-AFF2-CF840D3FFF74}
+	EndGlobalSection
+EndGlobal
