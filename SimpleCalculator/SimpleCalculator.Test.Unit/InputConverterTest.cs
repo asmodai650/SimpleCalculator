@@ -5,7 +5,7 @@ using System;
 namespace SimpleCalculator.Test.Unit
 {
     [TestClass]
-    public class UnitTest1
+    public class InputConverterTest
     {
         private readonly InputConverter _inputConverter = new InputConverter();
 

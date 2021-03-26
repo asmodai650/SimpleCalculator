@@ -18,6 +18,7 @@ namespace SimpleCalculator.Test.Unit
             Assert.AreEqual(3, result);
         }
 
+        [TestMethod]
         public void AddsTwoNumbersAndReturnsValidResultForSymbolOperation()
         {
             int number1 = 1;
