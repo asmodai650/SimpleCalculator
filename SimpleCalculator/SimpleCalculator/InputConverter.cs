@@ -14,6 +14,5 @@ namespace SimpleCalculator
             if (!double.TryParse(argTextInput, out convertedNumber)) throw new ArgumentException("Expected a numeric value!");
             return convertedNumber;
         }
-
     }
 }
