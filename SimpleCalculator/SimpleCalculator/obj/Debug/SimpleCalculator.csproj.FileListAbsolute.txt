@@ -1,0 +1,6 @@
+C:\Users\dcurtis1\source\repos\Training\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\dcurtis1\source\repos\Training\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\dcurtis1\source\repos\Training\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\dcurtis1\source\repos\Training\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dcurtis1\source\repos\Training\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\dcurtis1\source\repos\Training\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
