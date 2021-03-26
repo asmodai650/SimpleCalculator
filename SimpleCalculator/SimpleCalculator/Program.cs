@@ -19,7 +19,6 @@ namespace SimpleCalculator
 
             double result = calculatorEngine.Calculate(operation, firstNumber, secondNumber);
             Console.WriteLine(result);
-
         }
     }
 }
