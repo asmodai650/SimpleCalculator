@@ -4,3 +4,9 @@ C:\Users\dcurtis1\source\repos\Training\SimpleCalculator\SimpleCalculator\Simple
 C:\Users\dcurtis1\source\repos\Training\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
 C:\Users\dcurtis1\source\repos\Training\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
 C:\Users\dcurtis1\source\repos\Training\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+c:\users\dcurtis1\source\repos\training\udemy-csharpbuildingapps\simplecalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+c:\users\dcurtis1\source\repos\training\udemy-csharpbuildingapps\simplecalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+c:\users\dcurtis1\source\repos\training\udemy-csharpbuildingapps\simplecalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+c:\users\dcurtis1\source\repos\training\udemy-csharpbuildingapps\simplecalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+c:\users\dcurtis1\source\repos\training\udemy-csharpbuildingapps\simplecalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+c:\users\dcurtis1\source\repos\training\udemy-csharpbuildingapps\simplecalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

@@ -1,0 +1,13 @@
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\bin\Debug\SodukoSolver.Test.Unit.dll
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\bin\Debug\SodukoSolver.Test.Unit.pdb
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\obj\Debug\SodukoSolver.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\obj\Debug\SodukoSolver.Test.Unit.csproj.CopyComplete
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\obj\Debug\SodukoSolver.Test.Unit.dll
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver.Test.Unit\obj\Debug\SodukoSolver.Test.Unit.pdb

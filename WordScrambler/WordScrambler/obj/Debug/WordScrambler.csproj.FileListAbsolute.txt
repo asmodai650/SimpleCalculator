@@ -1,0 +1,6 @@
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\WordScrambler\WordScrambler\bin\Debug\WordScrambler.exe.config
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\WordScrambler\WordScrambler\bin\Debug\WordScrambler.exe
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\WordScrambler\WordScrambler\bin\Debug\WordScrambler.pdb
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\WordScrambler\WordScrambler\obj\Debug\WordScrambler.csproj.CoreCompileInputs.cache
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\WordScrambler\WordScrambler\obj\Debug\WordScrambler.exe
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\WordScrambler\WordScrambler\obj\Debug\WordScrambler.pdb

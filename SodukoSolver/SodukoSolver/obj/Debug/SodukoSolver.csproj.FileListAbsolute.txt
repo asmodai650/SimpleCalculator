@@ -1,0 +1,7 @@
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver\bin\Debug\SodukoSolver.exe.config
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver\bin\Debug\SodukoSolver.exe
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver\bin\Debug\SodukoSolver.pdb
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.csprojAssemblyReference.cache
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.csproj.CoreCompileInputs.cache
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.exe
+C:\Users\dcurtis1\source\repos\Training\Udemy-cSharpBuildingApps\SodukoSolver\SodukoSolver\obj\Debug\SodukoSolver.pdb
