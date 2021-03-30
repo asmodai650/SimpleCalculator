@@ -10,14 +10,13 @@ namespace WordScrambler
     {
         static void Main(string[] args)
         {
-            List<int> myFirstList = new List<int>();
+            int[] myFirstArray = new int[10];
 
-            Console.WriteLine(myFirstList.Count());
+            var mySecondList = new List<int>();
+            mySecondList.Add(5);
 
-            myFirstList.Add(10);
-            myFirstList.Add(5);
-
-            Console.WriteLine(myFirstList.Count());
+            Console.WriteLine(mySecondList[0]);
+            Console.WriteLine(myFirstArray[9]);
             Console.ReadLine();
         }
     }
