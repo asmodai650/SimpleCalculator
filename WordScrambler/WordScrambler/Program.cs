@@ -10,14 +10,25 @@ namespace WordScrambler
     {
         static void Main(string[] args)
         {
-            int[] myFirstArray = new int[10];
+            ////instansiate array LONG way
+            //int [] myArray = new int[5];
 
-            var mySecondList = new List<int>();
-            mySecondList.Add(5);
+            //myArray[0] = 7;
+            //myArray[1] = 13;
+            //myArray[2] = 6;
+            //myArray[3] = 5;
+            //myArray[4] = 4;
+            //myArray[5] = 99;
 
-            Console.WriteLine(mySecondList[0]);
-            Console.WriteLine(myFirstArray[9]);
-            Console.ReadLine();
+            //instantiate array short way
+
+            int[] myArray = { 7, 13, 6, 5, 4, 99 };
+
+            Array.Sort(myArray);
+
+            //Console.WriteLine(myArray.ToString());
+            ////Console.WriteLine(myFirstArray[9]);
+            //Console.ReadLine();
         }
     }
 }
